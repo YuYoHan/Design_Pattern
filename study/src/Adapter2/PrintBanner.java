@@ -1,6 +1,6 @@
 package Adapter2;
 
-import Adapter.Banner;
+import Adapter.ex02.Banner;
 
 public class PrintBanner extends Print{
     private Banner banner;
