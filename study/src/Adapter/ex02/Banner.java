@@ -1,8 +1,7 @@
-package Adapter;
+package Adapter.ex02;
 
 public class Banner {
     private String string;
-
     public Banner(String string) {
         this.string = string;
     }
