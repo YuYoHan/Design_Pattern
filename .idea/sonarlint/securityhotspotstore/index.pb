@@ -13,3 +13,9 @@ J
 src/prototype/Product.java,1\1\11946b23848bde0a57879e42a210e9ac5b503abf
 J
 src/prototype/Manager.java,0\0\00f880d7d483415d16f0789069996db311f94135
+N
+study/src/builder/Builder.java,4\5\457a46fbdf72b2219dd496b37b18788e4e25455e
+O
+study/src/builder/Director.java,d\a\da025d4aa984cbadda5e5c04a5d7de462e61bf52
+R
+"study/src/builder/TextBuilder.java,2\8\28122c4219631904e9ec3f9f6fd754046b59bc2b

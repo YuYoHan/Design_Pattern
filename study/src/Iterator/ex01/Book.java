@@ -1,4 +1,4 @@
-package Iterator;
+package Iterator.ex01;
 
 public class Book {
     private String name;
