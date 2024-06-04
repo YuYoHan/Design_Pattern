@@ -13,3 +13,9 @@ U
 %study/src/prototype/UnderlinePen.java,3\f\3f93635db8cf4738700c3555acbf9bc48f05985f
 M
 study/src/prototype/Main.java,b\0\b067431996b55d3665bf44bef457e73a28d91862
+N
+study/src/builder/Builder.java,4\5\457a46fbdf72b2219dd496b37b18788e4e25455e
+O
+study/src/builder/Director.java,d\a\da025d4aa984cbadda5e5c04a5d7de462e61bf52
+R
+"study/src/builder/TextBuilder.java,2\8\28122c4219631904e9ec3f9f6fd754046b59bc2b
