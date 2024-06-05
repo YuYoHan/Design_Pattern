@@ -1,4 +1,4 @@
-package Factory;
+package Factory.ex01;
 
 abstract class Coffee {
     public abstract int getPrice();
