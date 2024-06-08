@@ -1,0 +1,10 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ž¨ Ñ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ŸÞ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÚÎÎªúÿÿÿÿ
+>
+java:S2440")Remove this instantiation of "Singleton".(‡ÔÆ
+E	java:S106"+Replace this use of System.out by a logger.(šÐ—Çþÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(›À÷º
+E	java:S106"+Replace this use of System.out by a logger.(ý·‡‘øÿÿÿÿ
