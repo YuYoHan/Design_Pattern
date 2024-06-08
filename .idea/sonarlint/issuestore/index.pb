@@ -29,3 +29,7 @@ X
 (study/src/Singleton/ex01/HelloWorld.java,3\4\34989958830b9949fd08ce07a541ecc6cda810ce
 W
 'study/src/Singleton/ex01/Singleton.java,0\9\097fb0392f9e8e086c27d1fe6e66830322db8528
+W
+'study/src/Singleton/ex02/Singleton.java,8\8\88bc9b42b58ea57fb035a780e63c79ca926eb2c9
+R
+"study/src/Singleton/ex02/Main.java,e\1\e12a8441a7c6dd12f1e7f4dc9f0a52fe3d9f841a
