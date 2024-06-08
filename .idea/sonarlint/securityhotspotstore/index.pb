@@ -33,3 +33,11 @@ W
 'study/src/Singleton/ex02/Singleton.java,8\8\88bc9b42b58ea57fb035a780e63c79ca926eb2c9
 R
 "study/src/Singleton/ex02/Main.java,e\1\e12a8441a7c6dd12f1e7f4dc9f0a52fe3d9f841a
+R
+"study/src/prototype/ex01/Main.java,6\f\6fd857ece9e2a290cfc121f6c7f4c14051e333ba
+U
+%study/src/prototype/ex02/Product.java,9\f\9fd798f83659f28511cbdd3ca37d0d032211b429
+U
+%study/src/prototype/ex02/Manager.java,f\b\fb4f475281417ec88e17ec7959e42c11f869d5a5
+Z
+*study/src/prototype/ex02/UnderlinePen.java,c\0\c0a25cd3d82fe4edef8196e3e0eea6ddc07e1e51

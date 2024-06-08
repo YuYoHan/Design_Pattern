@@ -1,4 +1,4 @@
-package prototype;
+package prototype.ex01;
 
 public class MessageBox implements Product{
     private char decochar;

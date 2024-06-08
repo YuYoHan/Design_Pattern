@@ -1,4 +1,4 @@
-package prototype;
+package prototype.ex01;
 
 public class UnderlinePen implements Product{
     private char ulchar;
