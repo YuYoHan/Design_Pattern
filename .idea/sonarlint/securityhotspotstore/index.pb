@@ -41,3 +41,7 @@ U
 %study/src/prototype/ex02/Manager.java,f\b\fb4f475281417ec88e17ec7959e42c11f869d5a5
 Z
 *study/src/prototype/ex02/UnderlinePen.java,c\0\c0a25cd3d82fe4edef8196e3e0eea6ddc07e1e51
+X
+(study/src/prototype/ex02/MessageBox.java,1\7\1712372f6cc7973b7bd45b217da3d7ef92ef2e88
+R
+"study/src/prototype/ex02/Main.java,a\5\a59aeef2256569970bc51782cdb8faf536ed70fb
