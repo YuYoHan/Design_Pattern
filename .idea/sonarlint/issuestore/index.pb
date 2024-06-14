@@ -1,18 +1,8 @@
 
-P
- study/src/prototype/Product.java,d\3\d3d87262db063a546050eec1363f50156f722910
-P
- study/src/prototype/Manager.java,d\d\dd98ec1b23b6706e3618627324dc9d20452b0927
 J
 src/prototype/Product.java,1\1\11946b23848bde0a57879e42a210e9ac5b503abf
 J
 src/prototype/Manager.java,0\0\00f880d7d483415d16f0789069996db311f94135
-S
-#study/src/prototype/MessageBox.java,0\6\0658f8a659778fbd4cabfb30b0ba5514e7ea0260
-U
-%study/src/prototype/UnderlinePen.java,3\f\3f93635db8cf4738700c3555acbf9bc48f05985f
-M
-study/src/prototype/Main.java,b\0\b067431996b55d3665bf44bef457e73a28d91862
 N
 study/src/builder/Builder.java,4\5\457a46fbdf72b2219dd496b37b18788e4e25455e
 O
@@ -23,8 +13,6 @@ U
 %study/src/Iterator/ex01/Iterable.java,3\6\36929e21a148285eb31e19ddd474e0e1fbca06ae
 Q
 !study/src/Iterator/ex01/Main.java,d\9\d972a28ae4ac8e026151045497c306f127b0f431
-S
-#study/src/Singleton/HelloWorld.java,0\d\0d0553b1e844b58f6128ec670c978cf53e4174ca
 X
 (study/src/Singleton/ex01/HelloWorld.java,3\4\34989958830b9949fd08ce07a541ecc6cda810ce
 W
@@ -45,3 +33,17 @@ X
 (study/src/prototype/ex02/MessageBox.java,1\7\1712372f6cc7973b7bd45b217da3d7ef92ef2e88
 R
 "study/src/prototype/ex02/Main.java,a\5\a59aeef2256569970bc51782cdb8faf536ed70fb
+S
+#study/src/builder/ex02/Builder.java,8\4\84f515514bc252b7eac0c6c135c99b15e34d1491
+T
+$study/src/builder/ex02/Director.java,d\2\d29710bcb58a54d92f2c46f37fe1beb71040399e
+W
+'study/src/builder/ex02/TextBuilder.java,7\9\7979d94baaea851700c508a7ac864d57ea7c4291
+Q
+!study/src/Strategy/ex02/Main.java,b\e\be74192319c1f58619750a7537764357e94586f5
+R
+"study/src/Singleton/ex01/Main.java,c\d\cd2b47a7ca3587af9cfe77be5e8197af89553722
+W
+'study/src/builder/ex02/HTMLBuilder.java,7\9\79627d51f92a8e72df9497b69cd7daccee93cfdf
+P
+ study/src/builder/ex02/Main.java,b\0\b0eb4d313e5ee3d4a9c22639a4e65fc9ca253254
