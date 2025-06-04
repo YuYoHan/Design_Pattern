@@ -3,24 +3,12 @@ J
 src/prototype/Product.java,1\1\11946b23848bde0a57879e42a210e9ac5b503abf
 J
 src/prototype/Manager.java,0\0\00f880d7d483415d16f0789069996db311f94135
-N
-study/src/builder/Builder.java,4\5\457a46fbdf72b2219dd496b37b18788e4e25455e
-O
-study/src/builder/Director.java,d\a\da025d4aa984cbadda5e5c04a5d7de462e61bf52
-R
-"study/src/builder/TextBuilder.java,2\8\28122c4219631904e9ec3f9f6fd754046b59bc2b
 U
 %study/src/Iterator/ex01/Iterable.java,3\6\36929e21a148285eb31e19ddd474e0e1fbca06ae
 Q
 !study/src/Iterator/ex01/Main.java,d\9\d972a28ae4ac8e026151045497c306f127b0f431
-X
-(study/src/Singleton/ex01/HelloWorld.java,3\4\34989958830b9949fd08ce07a541ecc6cda810ce
 W
 'study/src/Singleton/ex01/Singleton.java,0\9\097fb0392f9e8e086c27d1fe6e66830322db8528
-W
-'study/src/Singleton/ex02/Singleton.java,8\8\88bc9b42b58ea57fb035a780e63c79ca926eb2c9
-R
-"study/src/Singleton/ex02/Main.java,e\1\e12a8441a7c6dd12f1e7f4dc9f0a52fe3d9f841a
 R
 "study/src/prototype/ex01/Main.java,6\f\6fd857ece9e2a290cfc121f6c7f4c14051e333ba
 U
